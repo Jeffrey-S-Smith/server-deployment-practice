@@ -1,7 +1,9 @@
 'use strict';
-
+const cors = require('cors');
 const express = require('express');
 const app = express(); // this is our app singleton
+app.use(cors());
+app.use(express.json());
 
 app.get('/', (request, response) => {
   try {
