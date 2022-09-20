@@ -17,4 +17,6 @@ This is a practice express server that can The main point of this server was to 
 This is an express server and is therefore written in javascript. All the endpoints are in the server.js file. The tests for my server can be found in the testServer.js file. Finally, the index.js is runs on the npm start command and will allow the server to listen on a specified port.
 
 ## Change Log
-09-19-2022 6 pm 
+
+09-19-2022 6 - 9pm 
+
